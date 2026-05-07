@@ -2,9 +2,13 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: Nhóm [Điền tên nhóm]
-- Lớp: FIT 4110
-- Thành viên: [Điền danh sách thành viên]
+- Tên nhóm: Nhóm 
+- Lớp: CNTT17-13
+- Thành viên: 
+        Nguyễn Việt Quang
+        Trần Quang Long
+        Lê Văn Hướng
+        Nguyễn Văn Huy
 - Service nhóm phụ trách: A7 Product A Notification (dịch vụ gửi cảnh báo đa kênh)
 - Sản phẩm tổng thể của lớp: Nền tảng Product A theo kiến trúc Microservices
 

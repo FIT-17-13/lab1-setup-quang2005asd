@@ -10,7 +10,7 @@
 - [x] Node.js đã cài và chạy được `node --version`.
 - [x] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
 - [x] VS Code đã cài.
-- [ ] Postman đã cài.
+- [x] Postman đã cài.
 
 ## Docker
 

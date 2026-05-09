@@ -4,11 +4,11 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
+- Họ tên: Nguyễn Việt Quang
+- Mã sinh viên:1771020578
 - Nhóm:
 - Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
+- Hệ điều hành:window
 - Ghi chú:
 
 ## Các file minh chứng nên có
